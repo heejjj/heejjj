@@ -13,9 +13,9 @@ Here are some ideas to get you  started:
 <!--소개-->
 
 ## Introduction :raised_hands:
-Welcome to Haily's code archive. Let's do some project to be happy😎
-Wanna be a great PM has communicator with team members
-Looking for team members proactively and passionately involved in the project
+- Welcome to Haily's code archive. Let's do some project to be happy😎
+- Wanna be a great PM has communicator with team members
+- Looking for team members proactively and passionately involved in the project
 
 <br/><br/>
 
@@ -23,8 +23,11 @@ Looking for team members proactively and passionately involved in the project
 - 👯 I’m looking to collaborate on data analysis and app develop projects
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonMin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radicalhttps://capsule-render.vercel.app/api?)
 
+<--type=slice&color=auto&height=200&section=header&text=Hello&desc=Haily&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)-->
+
+https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical
 <div align=center>
 
  
