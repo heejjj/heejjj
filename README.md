@@ -13,7 +13,7 @@ Here are some ideas to get you  started:
 <!--소개-->
 
 ## Introduction :raised_hands:
-- Welcome to Haily's code archive. Let's do some project to be happy😎
+- Welcome to Haily's code archive. Let's do some projects to be happy😎
 - 🌱 I have interested in Data Analysis, Bioinformatics. 
 - 👯 I’m looking to collaborate on data analysis and app develop projects
 
