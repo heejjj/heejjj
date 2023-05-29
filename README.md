@@ -1,8 +1,7 @@
 # Hailey's Archive
 <div align=center>
-![header](https://capsule-render.vercel.app/api?#type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejjj&layout=compact&theme=white)
+![header](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejjj&layout=compact&theme=white)
  
 <!-- (https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70) --!>
 
@@ -55,12 +54,7 @@
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br/><br/> --> 
-  
 
-
-
-
-![header](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 <!--(https://capsule-render.vercel.app/api?type=slice)
 #<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
