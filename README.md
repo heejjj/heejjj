@@ -60,7 +60,7 @@ https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=3
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <br>
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heejjj&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
  
 
   
