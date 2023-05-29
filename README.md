@@ -1,12 +1,41 @@
 # Hailey's Archive
+
+<!--
+**heejjj/heejjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Here are some ideas to get you  started:
+
+- 🔭 I’m currently working on ... 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...-->
+
+<!--소개-->
+
+## Introduction :raised_hands:
+Welcome to Haily's code archive. Let's do some project to be happy😎
+Wanna be a great PM has communicator with team members
+Looking for team members proactively and passionately involved in the project
+
+<br/><br/>
+
+- 🌱 I have interested in Data Analysis, Bioinformatics. 
+- 👯 I’m looking to collaborate on data analysis and app develop projects
+
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonMin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+
+<div align=center>
+
+ 
 <div align=center>
 ![header](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejjj&layout=compact&theme=white)
  
 <!-- (https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70) --!>
 
- <!--기술스택-->
- ## Skill :four_leaf_clover:
+ <!--기술스택
+ ## Skill :four_leaf_clover: -->
  <h1>STACKS</h1></div>
  
 <!--언어 및 툴 -->
@@ -59,5 +88,5 @@
 <!--(https://capsule-render.vercel.app/api?type=slice)
 #<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-#![reversal](https://capsule-render.vercel.app/api?#type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)--!> 
+![reversal](https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical) --!> 
 
