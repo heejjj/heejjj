@@ -26,7 +26,7 @@ Here are some ideas to get you  started:
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radicalhttps://capsule-render.vercel.app/api?) <div align=center>
 
-<--type=slice&color=auto&height=200&section=header&text=Hello&desc=Haily&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)-->
+<!--type=slice&color=auto&height=200&section=header&text=Hello&desc=Haily&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)-->
 
 https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical
 <div align=center>
@@ -44,7 +44,7 @@ https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=3
  
 <!--언어 및 툴 -->
 <div align> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=green"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
   
