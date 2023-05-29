@@ -14,13 +14,14 @@ Here are some ideas to get you  started:
 
 ## Introduction :raised_hands:
 - Welcome to Haily's code archive. Let's do some project to be happy😎
+- 🌱 I have interested in Data Analysis, Bioinformatics. 
+- 👯 I’m looking to collaborate on data analysis and app develop projects
+
 - Wanna be a great PM has communicator with team members
 - Looking for team members proactively and passionately involved in the project
 
 <br/><br/>
 
-- 🌱 I have interested in Data Analysis, Bioinformatics. 
-- 👯 I’m looking to collaborate on data analysis and app develop projects
 
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radicalhttps://capsule-render.vercel.app/api?)
