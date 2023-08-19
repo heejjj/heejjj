@@ -15,7 +15,7 @@ Here are some ideas to get you  started:
 ## Introduction :raised_hands:
 - Welcome to Haily's code archive. Let's do some projects to be happy😎
 - 🌱 I have interested in Data Analysis, Bioinformatics. 
-- 👯 I’m looking to collaborate on data analysis and app develop projects
+- 👯 I’m looking to collaborate on data analysis and app development projects
 
 - Wanna be a great PM has communicator with team members
 - Looking for team members proactively and passionately involved in the project
