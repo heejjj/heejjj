@@ -47,7 +47,7 @@ Here are some ideas to get you  started:
   <br> 
  
 
- ![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+ ![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejjj&show_icons=true&theme=tokyonight)
 
 <!-- 헤더 
 ![header](https://capsule-render.vercel.app/apitype=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radicalhttps://capsule-render.vercel.app/api?) <div align=center>
